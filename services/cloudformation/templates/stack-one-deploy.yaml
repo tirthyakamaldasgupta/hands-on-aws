@@ -1,0 +1,3 @@
+template-file-path: services/cloudformation/templates/stack-one-deploy.yaml
+parameters: {}
+tags: {}
